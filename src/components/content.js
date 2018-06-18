@@ -4,10 +4,10 @@ class Content extends Component {
   render() {
 
     const data = this.props.data ;
-    
-    this.props.data.map((object, index) => {
 
-    })
+    // this.props.data.map((object, index) => {
+    //
+    // })
     // <span>{data.indexOf(data.color)}</span>
     return (
       <p>
